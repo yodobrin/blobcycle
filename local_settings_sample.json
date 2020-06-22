@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "<connection string to the function storage>",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+        "SA_CS":"<connection string to the storage that holds content>",
+        "SA_CONTAINER":"<name of the container>"
+    }
+}
